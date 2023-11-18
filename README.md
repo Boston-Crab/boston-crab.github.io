@@ -10,6 +10,4 @@ around the world. It will contain:
                       Country
                       City
                       Social media links
-___
-Link for a website design idea made with Wix:
-  https://matassabaliauskas1.wixsite.com/my-site/whatisbuhurt
+
